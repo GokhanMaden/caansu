@@ -9,5 +9,3 @@ export default function(state=[], action) {
       return state;
   }
 }
-
-//ADD_BRAND'i action payload'u action'ı ile incele TODO
